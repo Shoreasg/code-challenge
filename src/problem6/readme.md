@@ -1,6 +1,6 @@
 # System Design
 
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/Shoreasg/code-challenge/master/src/problem6/System%20design.jpg)
 
 
 1. We will have a service to keep track of post request transaction
